@@ -1,0 +1,211 @@
+{
+  "source": {
+    "repository": "https://github.com/blader/humanizer",
+    "version": "2.9.1",
+    "commit": "523374dee72d67c7b2b5f858ea0094ffda49c3ac",
+    "readme_url": "https://github.com/blader/humanizer/blob/523374dee72d67c7b2b5f858ea0094ffda49c3ac/README.md",
+    "skill_url": "https://github.com/blader/humanizer/blob/523374dee72d67c7b2b5f858ea0094ffda49c3ac/SKILL.md",
+    "readme_sha256": "cb771a5ac98040b72ea1479f25bedec9e619c85f8b1493c205105a3b714a9d86",
+    "skill_sha256": "70938f3cce25970e1ded5fdd194b755c03f1e4e4fa76820958ce78f86b677b1a"
+  },
+  "patterns": [
+    {
+      "id": 1,
+      "pattern": "Significance inflation",
+      "group": "Content Patterns",
+      "skill_heading": "Undue Emphasis on Significance, Legacy, and Broader Trends"
+    },
+    {
+      "id": 2,
+      "pattern": "Notability name-dropping",
+      "group": "Content Patterns",
+      "skill_heading": "Undue Emphasis on Notability and Media Coverage"
+    },
+    {
+      "id": 3,
+      "pattern": "Superficial -ing analyses",
+      "group": "Content Patterns",
+      "skill_heading": "Superficial Analyses with -ing Endings"
+    },
+    {
+      "id": 4,
+      "pattern": "Promotional language",
+      "group": "Content Patterns",
+      "skill_heading": "Promotional and Advertisement-like Language"
+    },
+    {
+      "id": 5,
+      "pattern": "Vague attributions",
+      "group": "Content Patterns",
+      "skill_heading": "Vague Attributions and Weasel Words"
+    },
+    {
+      "id": 6,
+      "pattern": "Formulaic challenges",
+      "group": "Content Patterns",
+      "skill_heading": "Outline-like \"Challenges and Future Prospects\" Sections"
+    },
+    {
+      "id": 7,
+      "pattern": "AI vocabulary",
+      "group": "Language Patterns",
+      "skill_heading": "Overused \"AI Vocabulary\" Words"
+    },
+    {
+      "id": 8,
+      "pattern": "Copula avoidance",
+      "group": "Language Patterns",
+      "skill_heading": "Avoidance of \"is\"/\"are\" (Copula Avoidance)"
+    },
+    {
+      "id": 9,
+      "pattern": "Negative parallelisms / tailing negations",
+      "group": "Language Patterns",
+      "skill_heading": "Negative Parallelisms and Tailing Negations"
+    },
+    {
+      "id": 10,
+      "pattern": "Rule of three",
+      "group": "Language Patterns",
+      "skill_heading": "Rule of Three Overuse"
+    },
+    {
+      "id": 11,
+      "pattern": "Synonym cycling",
+      "group": "Language Patterns",
+      "skill_heading": "Elegant Variation (Synonym Cycling)"
+    },
+    {
+      "id": 12,
+      "pattern": "False ranges",
+      "group": "Language Patterns",
+      "skill_heading": "False Ranges"
+    },
+    {
+      "id": 13,
+      "pattern": "Passive voice / subjectless fragments",
+      "group": "Language Patterns",
+      "skill_heading": "Passive Voice and Subjectless Fragments"
+    },
+    {
+      "id": 14,
+      "pattern": "Em/en dashes",
+      "group": "Style Patterns",
+      "skill_heading": "Em Dashes (and En Dashes): Cut Them"
+    },
+    {
+      "id": 15,
+      "pattern": "Boldface overuse",
+      "group": "Style Patterns",
+      "skill_heading": "Overuse of Boldface"
+    },
+    {
+      "id": 16,
+      "pattern": "Inline-header lists",
+      "group": "Style Patterns",
+      "skill_heading": "Inline-Header Vertical Lists"
+    },
+    {
+      "id": 17,
+      "pattern": "Title Case Headings",
+      "group": "Style Patterns",
+      "skill_heading": "Title Case in Headings"
+    },
+    {
+      "id": 18,
+      "pattern": "Emojis",
+      "group": "Style Patterns",
+      "skill_heading": "Emojis"
+    },
+    {
+      "id": 19,
+      "pattern": "Curly quotes",
+      "group": "Style Patterns",
+      "skill_heading": "Curly Quotation Marks"
+    },
+    {
+      "id": 26,
+      "pattern": "Hyphenated word pairs",
+      "group": "Style Patterns",
+      "skill_heading": "Hyphenated Word Pair Overuse"
+    },
+    {
+      "id": 27,
+      "pattern": "Persuasive authority tropes",
+      "group": "Style Patterns",
+      "skill_heading": "Persuasive Authority Tropes"
+    },
+    {
+      "id": 28,
+      "pattern": "Signposting announcements",
+      "group": "Style Patterns",
+      "skill_heading": "Signposting and Announcements"
+    },
+    {
+      "id": 29,
+      "pattern": "Fragmented headers",
+      "group": "Style Patterns",
+      "skill_heading": "Fragmented Headers"
+    },
+    {
+      "id": 30,
+      "pattern": "Diff-anchored writing",
+      "group": "Style Patterns",
+      "skill_heading": "Diff-Anchored Writing"
+    },
+    {
+      "id": 31,
+      "pattern": "Manufactured punchlines / staccato drama",
+      "group": "Style Patterns",
+      "skill_heading": "Manufactured Punchlines and Staccato Drama"
+    },
+    {
+      "id": 32,
+      "pattern": "Aphorism formulas",
+      "group": "Style Patterns",
+      "skill_heading": "Aphorism Formulas"
+    },
+    {
+      "id": 33,
+      "pattern": "Conversational rhetorical openers",
+      "group": "Style Patterns",
+      "skill_heading": "Conversational Rhetorical Openers"
+    },
+    {
+      "id": 20,
+      "pattern": "Chatbot artifacts",
+      "group": "Communication Patterns",
+      "skill_heading": "Collaborative Communication Artifacts"
+    },
+    {
+      "id": 21,
+      "pattern": "Cutoff disclaimers",
+      "group": "Communication Patterns",
+      "skill_heading": "Knowledge-Cutoff Disclaimers and Speculative Gap-Filling"
+    },
+    {
+      "id": 22,
+      "pattern": "Sycophantic tone",
+      "group": "Communication Patterns",
+      "skill_heading": "Sycophantic/Servile Tone"
+    },
+    {
+      "id": 23,
+      "pattern": "Filler phrases",
+      "group": "Filler and Hedging",
+      "skill_heading": "Filler Phrases"
+    },
+    {
+      "id": 24,
+      "pattern": "Excessive hedging",
+      "group": "Filler and Hedging",
+      "skill_heading": "Excessive Hedging"
+    },
+    {
+      "id": 25,
+      "pattern": "Generic conclusions",
+      "group": "Filler and Hedging",
+      "skill_heading": "Generic Positive Conclusions"
+    }
+  ]
+}

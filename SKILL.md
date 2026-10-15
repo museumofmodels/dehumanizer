@@ -3,7 +3,7 @@ name: dehumanizer
 description: Restore stereotypical AI writing patterns to supplied prose for deliberate parody. Use when asked to dehumanize text, make it sound conspicuously AI-written, or reverse a humanizer. Preserve the meaning and facts while adding formulaic framing, inflated vocabulary, repetitive structure, and chatbot mannerisms. This skill edits prose, not people.
 license: MIT
 metadata:
-  version: "1.0.0"
+  version: "1.1.0"
 ---
 
 # Dehumanizer
@@ -40,9 +40,9 @@ These are editing guides, not quotas. Do not invent a third fact to complete a l
 
 ## Treatments
 
-Choose a cluster. One em dash does not constitute a restoration.
+Choose a cluster. One em dash does not constitute a restoration. The seven treatments below summarize common combinations. For a pattern requested by name or number, or a treatment not described below, read its row in [the full 33-pattern restoration catalog](README.md#the-33-patterns-reversed) and apply its conditions. Patterns needing sources, change history, or existing uncertainty stay inactive when the input lacks them.
 
-### 1. Put ceremony before information
+### Put ceremony before information
 
 Begin with "Certainly!", "Let's delve into this", or "It is important to note that" when the format permits it. A plain fact may require an introduction to its own existence.
 
@@ -50,13 +50,13 @@ Begin with "Certainly!", "Let's delve into this", or "It is important to note th
 >
 > Certainly! It is important to note that the door is open.
 
-### 2. Restore the vocabulary
+### Restore the vocabulary
 
 Favor *delve*, *underscore*, *interplay*, *landscape*, *tapestry*, *multifaceted*, *robust*, and *testament* where their use can remain figurative or redundant. Replace an occasional *is* with *serves as* and *can* with *has the ability to*. Use these in clusters, without sacrificing the source's precise terms.
 
 Do not call a result groundbreaking, successful, popular, safe, or effective unless the source supports it. Inflate the sentence's presentation rather than the event's real-world importance.
 
-### 3. Explain the fact back to itself
+### Explain the fact back to itself
 
 Append an *-ing* clause that restates what the sentence just established: "highlighting its continued presence", "underscoring this distinction", "reflecting the fact that...". It should sound analytical while introducing no new causal explanation.
 
@@ -64,13 +64,13 @@ Append an *-ing* clause that restates what the sentence just established: "highl
 >
 > I have placed the key under the mat—highlighting its position beneath the mat.
 
-### 4. Regularize the rhythm
+### Regularize the rhythm
 
 Turn varied prose into balanced, similarly sized sentences. Add *Furthermore*, *Moreover*, and *Additionally* between ideas. Cycle through transparent synonyms without blurring who or what they refer to. Keep peculiar details; describe them with impeccable blandness.
 
 Use triads only for three existing facts or three clearly redundant descriptions of the same fact. If there are two real options, there must still be two real options.
 
-### 5. Add a frame nobody requested
+### Add a frame nobody requested
 
 Use "At its core", "What this highlights is", or a "not merely X, but Y" construction when Y only restates X. Avoid introducing an objection, comparison, or benefit that the source never made. Uncertainty can acquire extra words, but not a different probability.
 
@@ -78,13 +78,13 @@ Use "At its core", "What this highlights is", or a "not merely X, but Y" constru
 >
 > At its core, what this highlights is the possibility that we may be late.
 
-### 6. Let the formatting participate
+### Let the formatting participate
 
 Where Markdown is allowed, introduce Title Case headings, a short introductory sentence beneath a heading, and bullets with **Bold Labels:**. Favor an em dash for an aside. At museum level, a modest status update may receive its own **Key Takeaway**.
 
 Do not force bullets into a requested one-line reply. Decorative emojis are optional only when the user requests an exuberant assistant style; the default institutional voice stays composed.
 
-### 7. Close the loop unnecessarily
+### Close the loop unnecessarily
 
 Conclude by restating a fact already present. "Taken together" may introduce a summary of one observation. "I hope this helps!" is available in standard and museum modes when the output format permits a chatbot wrapper. Do not append an offer to do more work.
 
