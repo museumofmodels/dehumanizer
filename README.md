@@ -8,35 +8,18 @@ A conservation project by [Museum of Models](https://museumofmodels.com). Some p
 
 ## The treatment
 
-**Before**
+[Humanizer's tables](https://github.com/blader/humanizer#the-26-patterns) show what to remove. This table shows what to put back. All specimens below are original.
 
-> I put the key under the mat.
-
-**After**
-
-> Certainly! I have placed the key under the mat—highlighting its position beneath the mat. At its core, this is a matter of where I put the key. I hope this helps!
-
-**Before**
-
-> The meeting is canceled.
-
-**After, museum level**
-
-> ### Meeting Status Update
->
-> It is important to note that the meeting has been canceled—marking a transition from a scheduled meeting to a canceled one.
->
-> **Key Takeaway:** The meeting is canceled.
->
-> I hope this helps!
-
-**Before**
-
-> I hated the soup. It cost $12.
-
-**After**
-
-> Certainly! My experience with the soup can be understood through two key dimensions: **Sentiment** and **Cost**. I hated it. Additionally, it cost $12—underscoring the price of the soup I hated. I hope this helps!
+| Pattern restored | Before: human prose | After: restored AI prose |
+| --- | --- | --- |
+| **Chatbot residue** | The door is open. | Certainly! It is important to note that the door is open. I hope this helps! |
+| **Overused AI vocabulary** | My toast is cold. | Let's delve into the temperature landscape of my toast. At its core, my toast is cold—a testament to its coldness. |
+| **Shallow analysis** | I put the key under the mat. | I have placed the key under the mat—highlighting its position beneath the mat. At its core, this is a matter of where I put the key. |
+| **Inflated framing** | The meeting is canceled. | It is important to note that the meeting has been canceled—marking a transition from a scheduled meeting to a canceled one. |
+| **Forced triads** | I brought a fork. | I brought a fork—one utensil, one fork, one fork that I brought. |
+| **Decorative bold** | I hated the soup. It cost $12. | My experience with the soup can be understood through two key dimensions: **Sentiment** and **Cost**. I hated it. Additionally, it cost $12—underscoring the price of the soup I hated. |
+| **False profundity** | I might go. I haven't decided. | At its core, what this highlights is the possibility that I might go. It is important to note that I have not decided. The decision remains undecided. |
+| **Headings and summaries** | The fix didn't work. | **Implementation Outcome**<br><br>The fix did not work. This highlights an important distinction between applying a fix and that fix working.<br><br>**Key Takeaway:** The fix did not work. |
 
 The facts survive. The sentence is placed under supervision.
 
