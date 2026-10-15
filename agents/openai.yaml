@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dehumanizer"
+  short_description: "Restore AI prose. Preserve the facts."
+  default_prompt: "Use $dehumanizer to make this text sound conspicuously AI-written while preserving its meaning and facts."
